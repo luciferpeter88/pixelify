@@ -1,0 +1,307 @@
+{
+  "heroData": {
+    "homeThreeHero": {
+      "imgAuthor": "/images/section/hero.png",
+      "bgImgLink": "/images/background/hero-bg-1.jpg",
+      "title": "Hi, I am <span>Peter Kaszap-Nagy</span>",
+      "text": "I'm a full-stack web and mobile developer, skilled in creating interactive and high-performance applications with seamless cross-platform compatibility."
+    }
+  },
+  "aboutData": {
+    "imgLink": "/images/section/hero.png",
+    "cvPdf": "/images/Resume.pdf",
+    "title": "Hi There! I'm Peter ",
+    "subtitle": "Developer",
+    "text": "I am a Full Stack and Mobile Developer focused on building complete web and mobile solutions. My goal is to develop applications that engage and deliver a high-quality user experience, prompting positive user responses and driving success through functionality and innovation.",
+    "details": [
+      {
+        "title": "Birthday",
+        "info": "13 November, 1988"
+      },
+      {
+        "title": "Phone",
+        "info": "+447515632494"
+      },
+      {
+        "title": "Email",
+        "info": "kaszapnagyp@gmail.com"
+      },
+      {
+        "title": "From",
+        "info": "Glasgow"
+      },
+      {
+        "title": "Language",
+        "info": "English,Hungarian"
+      },
+      {
+        "title": "Freelance",
+        "info": "Available"
+      }
+    ]
+  },
+  "serviceData": {
+    "services": [
+      {
+        "imgLink": "./images/icon/icon1.png",
+        "title": "Backend Development",
+        "text": "Efficient and scalable server-side solutions crafted to power modern web and mobile applications.",
+        "effect": "zoom-out-up",
+        "duration": "500",
+        "delay": "200"
+      },
+      {
+        "imgLink": "./images/icon/icon2.png",
+        "title": "Full Stack Development",
+        "text": "Integrating frontend and backend technologies to build dynamic, end-to-end web applications.",
+        "effect": "zoom-out-up",
+        "duration": "500",
+        "delay": "300"
+      },
+      {
+        "imgLink": "./images/icon/icon3.png",
+        "title": "Mobile Development",
+        "text": "Creating responsive, user-centric mobile apps for a seamless cross-platform experience.",
+        "effect": "zoom-out-up",
+        "duration": "500",
+        "delay": "400"
+      },
+      {
+        "imgLink": "./images/icon/icon4.png",
+        "title": "API Integration",
+        "text": "Connecting diverse systems and services with custom API solutions to enhance app functionality.",
+        "effect": "zoom-out-up",
+        "duration": "500",
+        "delay": "500"
+      },
+      {
+        "imgLink": "./images/icon/icon5.png",
+        "title": "Database Management",
+        "text": "Designing robust data architectures to ensure the integrityand performance of application data.",
+        "effect": "zoom-out-up",
+        "duration": "500",
+        "delay": "600"
+      },
+      {
+        "imgLink": "./images/icon/icon6.png",
+        "title": "Performance Optimization",
+        "text": "Fine-tuning applications for peak performance, ensuring speed, and reliability across devices.",
+        "effect": "zoom-out-up",
+        "duration": "500",
+        "delay": "700"
+      }
+    ]
+  },
+  "skillData": {
+    "title": "All the skills that I have in the field of full stack and mobile development are mentioned.",
+    "text": "From concept to deployment, my expertise in full stack and mobile development spans all layers of modern web and mobile applications. I am committed to using the latest technologies and best practices to build robust, scalable, and secure applications. With a deep understanding of both front-end and back-end frameworks, I ensure that all components work harmoniously to create seamless user experiences. My approach is driven by a passion for clean code, efficient architecture, and responsive design, aiming to meet and exceed the expectations of users and stakeholders alike.",
+    "skills": [
+      {
+        "title": "JavaScript",
+        "progress": " ",
+        "effect": "fade-up",
+        "duration": "500",
+        "delay": "200"
+      },
+      {
+        "title": "React",
+        "progress": "",
+        "effect": "fade-up",
+        "duration": "500",
+        "delay": "300"
+      },
+      {
+        "title": "Node.js",
+        "progress": "",
+        "effect": "fade-up",
+        "duration": "500",
+        "delay": "400"
+      },
+      {
+        "title": "Mobile App Development",
+        "progress": "",
+        "effect": "fade-up",
+        "duration": "500",
+        "delay": "500"
+      },
+      {
+        "title": "Database Management",
+        "progress": "",
+        "effect": "fade-up",
+        "duration": "500",
+        "delay": "600"
+      },
+      {
+        "title": "API Design and Integration",
+        "progress": "",
+        "effect": "fade-up",
+        "duration": "500",
+        "delay": "700"
+      }
+    ]
+  },
+
+  "portfolioData": {
+    "portfolioItems": [
+      {
+        "imgLink": "./images/portfolio/portfolio.png",
+        "imgLinkLg": "./images/portfolio/portfolio.png",
+        "title": "Product",
+        "subTitle": "",
+        "effect": "fade-up",
+        "duration": "500",
+        "delay": "200"
+      },
+      {
+        "imgLink": "./images/portfolio/portfolio2.png",
+        "imgLinkLg": "./images/portfolio/portfolio2.png",
+        "title": "Product",
+        "subTitle": "",
+        "effect": "fade-up",
+        "duration": "500",
+        "delay": "300"
+      },
+      {
+        "imgLink": "./images/portfolio/portfolio6.png",
+        "imgLinkLg": "./images/portfolio/portfolio6.png",
+        "title": "Product",
+        "subTitle": "",
+        "effect": "fade-up",
+        "duration": "500",
+        "delay": "400"
+      },
+      {
+        "imgLink": "./images/portfolio/portfolio4.png",
+        "imgLinkLg": "./images/portfolio/portfolio4.png",
+        "title": "Product",
+        "subTitle": "",
+        "effect": "fade-up",
+        "duration": "500",
+        "delay": "500"
+      },
+      {
+        "imgLink": "./images/portfolio/portfolio.png",
+        "imgLinkLg": "./images/portfolio/portfolio.png",
+        "title": "Product",
+        "subTitle": "",
+        "effect": "fade-up",
+        "duration": "500",
+        "delay": "600"
+      },
+      {
+        "imgLink": "./images/portfolio/portfolio6.png",
+        "imgLinkLg": "./images/portfolio/portfolio6.png",
+        "title": "Product",
+        "subTitle": "",
+        "effect": "fade-up",
+        "duration": "500",
+        "delay": "700"
+      }
+    ]
+  },
+  "reviewData": {
+    "useFor": "review",
+    "sliderSetting": {
+      "infinite": true,
+      "speed": 500,
+      "slidesToShow": 3,
+      "slidesToScroll": 1,
+      "arrows": false,
+      "responsive": [
+        {
+          "breakpoint": 991,
+          "settings": {
+            "slidesToShow": 2,
+            "autoplay": true
+          }
+        },
+        {
+          "breakpoint": 767,
+          "settings": {
+            "slidesToShow": 1,
+            "autoplay": true
+          }
+        }
+      ]
+    },
+    "informations": [
+      {
+        "imgLink": "./images/client/face.jpeg",
+        "title": "Elena Gilbert",
+        "designation": "CEO",
+        "text": "Working with this developer transformed our digital platforms. Their meticulous attention to detail and innovative approaches significantly enhanced our web and mobile presence."
+      },
+      {
+        "imgLink": "./images/client/comment1.jpg",
+        "title": "Marcus Johnson",
+        "designation": "CTO",
+        "text": "The developer demonstrated exceptional expertise and professionalism. Their ability to seamlessly integrate complex systems greatly improved our operational efficiency."
+      },
+      {
+        "imgLink": "./images/client/comment2.jpg",
+        "title": "John Doe",
+        "designation": "Project Manager",
+        "text": "This developer delivered an outstanding product ahead of schedule. Their proactive and skilled approach ensured the project's success and exceeded our expectations."
+      }
+    ]
+  },
+  "resumeData": {
+    "experienceTitle": "Experience",
+    "experience": [
+      {
+        "title": "Freelance Full Stack Developer",
+        "duration": "2021 - Present",
+        "subTitle": "Self-Employed",
+        "text": "Focused on developing and deploying responsive web and mobile applications, with a strong emphasis on intuitive user interfaces. Proficient in using modern frameworks and technologies to build visually appealing and functional solutions that meet diverse client requirements."
+      },
+      {
+        "title": "Freelance Web Developer",
+        "duration": "2020 - 2021",
+        "subTitle": "Self-Employed",
+        "text": "Initiated my freelance career by designing and developing custom websites. Specialized in integrating seamless front-end and back-end functionalities to enhance user engagement and improve overall performance. Successfully delivered projects that consistently exceeded client expectations."
+      }
+    ],
+    "educationTitle": "Education",
+    "education": [
+      {
+        "title": "BSc Web and Mobile Development",
+        "duration": "2023 - present",
+        "subTitle": "University of West Scotland",
+        "text": "Pursuing a Bachelor of Science in Web and Mobile Development, focusing on advanced programming, software engineering principles, and the latest technologies in web and mobile app development. Engaged in practical projects and collaborative workshops designed to enhance problem-solving skills and technical proficiency."
+      },
+      {
+        "title": "HND Web and Mobile Development",
+        "duration": "2020 - 2022",
+        "subTitle": "Glasgow Clyde College",
+        "text": "Completed a Higher National Diploma in Web and Mobile Development, gaining foundational knowledge in coding, app design, and development frameworks. Participated in hands-on projects that emphasized user-centered design and development, preparing for real-world software development challenges."
+      }
+    ]
+  },
+  "contactData": {
+    "formTitle": "Get in Touch",
+    "title": "Contact Info",
+    "subTitle": "Visite my social profile and get connected",
+    "text": "I am available for freelance projects. If you have any questions or need a developer, feel free to contact me."
+  },
+  "socialData": [
+    {
+      "icon": "linkedin",
+      "title": "LinkedIn",
+      "link": "https://www.linkedin.com/in/peter-kaszap-nagy-03709521b/?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app"
+    }
+  ],
+  "socialData2": [
+    {
+      "icon": "github",
+      "link": "https://github.com/luciferpeter88"
+    },
+    {
+      "icon": "facebook-f",
+      "link": "https://www.facebook.com/"
+    },
+    {
+      "icon": "twitter",
+      "link": "https://twitter.com/"
+    }
+  ]
+}
