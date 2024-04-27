@@ -16,9 +16,10 @@ const About = ({ data }) => {
                 className="st-about-img st-bg"
                 style={{
                   backgroundImage: `url(${imgLink})`,
-                  backgroundPosition: "-60px",
+                  backgroundPosition: "center center",
                   backgroundSize: "cover",
                   backgroundRepeat: "no-repeat",
+                  width: "100%",
                 }}
                 data-aos="fade-right"
                 data-aos-duration="800"
