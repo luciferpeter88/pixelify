@@ -2,6 +2,7 @@
 
 .st-about-img {
   min-height: 550px;
+  background-position: -60px !important;
 }
 
 .st-about-img-wrap {
@@ -54,5 +55,9 @@
 @media screen and (max-width: 991px) {
   .st-about-img-wrap {
     padding-right: 0px;
+  }
+  .st-about-img {
+    min-height: 550px;
+    background-position: center !important;
   }
 }
